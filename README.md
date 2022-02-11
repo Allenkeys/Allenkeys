@@ -10,6 +10,6 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on software development projects.
 - 💬 Ask me about frontend development.
 - 📫 How to reach me on : LinkedIn
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: A forex technical analyst and a lover of football.
 
