@@ -5,11 +5,13 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on a qr code app.
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on software development projects.
+- ✨ Looking for: "Software Engineer" || "Full-stack web developer"
+- 🔭 I’m currently working on a windows task manager application.
+- 🌱 I’m honing my C# with .NET skills
+- 👯 I’m looking to collaborate with new and exciting developers.
 - 💬 Ask me about software development.
 - 📫 How to reach me on : LinkedIn
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: A forex technical analyst and a lover of football.
+- 😄 Code: C#, .Net, Javascript, React, Redux, Angular, Sql
+- ⚡ Fun fact: I have remote coding experience with developers accross the globe, and eager to take the right offer.
+- ☕ I love coffee.
 
