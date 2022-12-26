@@ -10,7 +10,7 @@
 
 
 ### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/eze-joshua-chinemogo)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eze-joshua-chinemogo)
  [![Twitter](https://img.shields.io/badge/TWITTER-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jdgraay) [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezejoshuac@gmail.com)
 
 ### 💻 Tech Stack
