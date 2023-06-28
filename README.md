@@ -2,11 +2,11 @@
 ![hello](https://dl.dropboxusercontent.com/s/v7v0amc0slde9oa/Screenshot%20%2810%29.png?dl=0)
 
 - ✨ Looking for: "Software Engineer" || "Full-stack Web Developer"
-- 🔭 A chance to contribute to your outstanding team is something, I'm anticipating.
-- 🌱 I’m honing my .NET skills
-- 👯 I collaborate with new and exciting developers to provide software solutions for businesses.
-- 💬 Ask me about software development.
-- ☕ Take some coffee and never stop asking "why".
+- 🔭 Seeking opportunities to leverage my skills and contribute to innovative software development projects.
+- 🌱 I build scalable and efficient software applications with .NET
+- 👯 Proven track record of delivering high-quality solutions and collaborating with teams of diverse and multicultural backgrounds to achieve project objectives.
+- 💬 Committed to staying up-to-date with industry trends and continuously expanding technical knowledge to serve clients the best.
+- ☕ We can have a call over a coffee break to discuss the world's next big thing.
 
 
 ### 🌐 Socials
@@ -18,7 +18,7 @@
 
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Allenkeys&theme=react&hide_border=true&include_all_commits=true&count_private=true)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Allenkeys&theme=react&hide_border=true&include_all_commits=true&count_private=true) -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Allenkeys&theme=react&hide_border=true)<br/>
 
 ---
